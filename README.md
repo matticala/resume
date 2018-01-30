@@ -1,9 +1,8 @@
 
 # Matteo Calabro
-###### source: https://github.com/matticala/resume/resume.md
-###### published to https://matticala.github.io
 
 *I write functional code, love cooking, reading, traveling, and tinkering with electronics :-)*
+###### source: https://github.com/matticala/resume/resume.md | published to https://matticala.github.io
 
 ## I am
 
@@ -97,5 +96,5 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE1hdHRlbyBNYXNzaW1vIE
 NhbGFicm8gUmVzdW1lXG5hdXRob3I6IE1hdHRlbyBNYXNzaW1v
 IENhbGFicm9cbnRhZ3M6IENWLCBSZXN1bWUsIEN1cnJpY3VsdW
 0gVml0YWVcbmNhdGVnb3JpZXM6IENWLCBSZXN1bWVcbnN0YXR1
-czogZmluYWxcbiIsImhpc3RvcnkiOlstMTc2NTM0MDUxOV19
+czogZmluYWxcbiIsImhpc3RvcnkiOlstMTU2NTkxMDA5N119
 -->
