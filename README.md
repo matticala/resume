@@ -89,14 +89,11 @@ Physics and computer science experimental course
 - [Functional Programming Principles in Scala](https://www.coursera.org/account/accomplishments/certificate/SMHHJZN34BK7)
 - [Functional Program Design in Scala](https://www.coursera.org/account/accomplishments/records/J3J4S8LAANKV)
 - [Parallel programming](https://www.coursera.org/account/accomplishments/records/BL9AL96ZMZY4)
-- [Agile Development](https://www.coursera.org/learn/uva-darden-getting-started-agile/home/welcome) [ˆ1]
-
----
-[ˆ1]: ongoing
+- [Agile Development](https://www.coursera.org/learn/uva-darden-getting-started-agile/home/welcome) --- ongoing
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE1hdHRlbyBNYXNzaW1vIE
 NhbGFicm8gUmVzdW1lXG5hdXRob3I6IE1hdHRlbyBNYXNzaW1v
 IENhbGFicm9cbnRhZ3M6IENWLCBSZXN1bWUsIEN1cnJpY3VsdW
 0gVml0YWVcbmNhdGVnb3JpZXM6IENWLCBSZXN1bWVcbnN0YXR1
-czogZmluYWxcbiIsImhpc3RvcnkiOlstNDM4NzY0MjZdfQ==
+czogZmluYWxcbiIsImhpc3RvcnkiOlstMTMyMTk0NDE2NF19
 -->
